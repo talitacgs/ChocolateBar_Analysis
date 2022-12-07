@@ -1,6 +1,19 @@
 ## Objetivo
-as soon as possible<br>
-as soon as possible
+Esse notebook tem como objetivos apresentar as seguintes análises:
+
+1. Quais países de origem do grão resultam na classificação mais alta?
+2. A porcentagem ou ingredientes de cacau afetam a classificação?
+3. Com classificações altas, quais são as características mais memoráveis?
+4. Quais são os fabricantes com barras de chocolate altamente avaliadas ?
+
+O dataset [Chocolate Bar Ratings](https://www.kaggle.com/datasets/evangower/chocolate-bar-ratings) está disponível no Kaggle e possui as seguintes características:
+
+Sistema de classificação de sabor: <br>
+4.0 - 5.0 = Outstanding <br>
+3.5 - 3.9 = Highly Recommended <br>
+3.0 - 3.49 = Recommended <br>
+2.0 - 2.9 = Disappointing <br>
+1.0 - 1.9 = Unpleasant
 
 #### Informações Técnicas
 Utilizou-se as seguintes bibliotecas:
@@ -20,9 +33,27 @@ Ferramentas e tecnologias:
 </div>
 
 ### Conclusão
-as soon as possible <br>
-as soon as possible
+**Quais países de origem do grão resultam na classificação mais alta?** 
 
+*Na média de avaliações: Tobago, China, São Tomé & Príncipe, porém ao observar a participação percentual de produtores no mercado, os com classificação mais altas são: Madagascar, Venezuela e República Dominicana.*
+
+**A porcentagem ou ingredientes de cacau afetam a classificação?**
+
+*Não evidências suficientes que provem que a porcentagem de cacau ou o número de ingredientes afetem a classificação*
+
+<div align="center" style="display: inline_block">
+  <img height="450" width="520" alt="chocolate-corr" src="images/corr.png">
+</div>
+
+**Com classificações altas, quais são as características mais memoráveis?**
+
+<div align="center" style="display: inline_block">
+  <img height="250" width="520" alt="chocolate-wordcloud" src="images/wordcloud.png">
+</div>
+
+**Quais são os fabricantes com barras de chocolate altamente avaliadas ?**
+
+*Na média de avaliações:Tobago Estate(Pralus), Taste Artisan, Hotel Chocolat, porém ao observar a participação percentual de fabricantes no mercado, os com classificação mais altas são: Bonnat, Soma e A. Morin.*
 <br>
 <br>
 
