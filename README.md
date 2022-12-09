@@ -37,6 +37,11 @@ Ferramentas e tecnologias:
 
 *Na média de avaliações: Tobago, China, São Tomé & Príncipe, porém ao observar a participação percentual de produtores no mercado, os com classificação mais altas são: Madagascar, Venezuela e República Dominicana.*
 
+<div align="center" style="display: inline_block">
+  <img height="250" width="780" alt="origin_bean_absolute-barchart" src="images/origin_bean_absolute.png">
+  <img height="250" width="780" alt="origin_bean_absolute-barchart" src="images/origin_bean_percentual.png">
+</div>
+
 **A porcentagem ou ingredientes de cacau afetam a classificação?**
 
 *Não evidências suficientes que provem que a porcentagem de cacau ou o número de ingredientes afetem a classificação*
@@ -53,7 +58,13 @@ Ferramentas e tecnologias:
 
 **Quais são os fabricantes com barras de chocolate altamente avaliadas ?**
 
-*Na média de avaliações:Tobago Estate(Pralus), Taste Artisan, Hotel Chocolat, porém ao observar a participação percentual de fabricantes no mercado, os com classificação mais altas são: Bonnat, Soma e A. Morin.*
+*Na média de avaliações:Tobago Estate(Pralus), Heirloom Cacao Preservation (Zokoko), Ocelot, porém ao observar a participação percentual de fabricantes no mercado, os com classificação mais altas são: Soma, Arete e Bonnat.*
+
+<div align="center" style="display: inline_block">
+  <img height="250" width="780" alt="origin_bean_absolute-barchart" src="images/manufacturer_absolute.png">
+  <img height="250" width="780" alt="origin_bean_absolute-barchart" src="images/manufacturer_percentual.png">
+</div>
+
 <br>
 <br>
 
